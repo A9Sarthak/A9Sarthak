@@ -16,13 +16,10 @@
 const sarthak = {
   degree  : "B.Tech IT — VIT Vellore (2024–2028)",
   based   : "Noida, India",
-  doing   : "learning new tech, building things, exploring rabbit holes",
+  doing   : "developing and publishing apps, exploring rabbit holes",
   stack   : ["Flutter", "React", "Node.js", "Firebase", "MongoDB", "GCP"],
 };
 ```
-
-second year cs student who spends most of his time exploring new tech and building things.
-into mobile dev, full-stack, cloud, and ui — pretty much anything that seems interesting enough to dive into.
 
 ---
 
@@ -97,7 +94,7 @@ optimization and pdf trip exports.
 
 ![Streak](https://streak-stats.demolab.com?user=A9Sarthak&hide_border=true&background=0c0a14&ring=9d6fff&fire=00ff88&currStreakLabel=9d6fff&sideLabels=6a4aaa&dates=3d2d5a&currStreakNum=c8b8ff&sideNums=c8b8ff)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A9Sarthak&layout=donut&hide_border=true&bg_color=0c0a14&title_color=9d6fff&text_color=c8b8ff&langs_count=6)
+![Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=A9Sarthak&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
