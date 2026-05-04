@@ -16,7 +16,7 @@
 const sarthak = {
   degree  : "B.Tech IT — VIT Vellore (2024–2028)",
   based   : "Noida, India",
-  doing   : "developing and publishing apps, exploring rabbit holes",
+  doing   : "developing and publishing apps, learning new tech, exploring rabbit holes",
   stack   : ["Flutter", "React", "Node.js", "Firebase", "MongoDB", "GCP"],
 };
 ```
