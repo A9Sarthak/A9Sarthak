@@ -2,18 +2,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0a14,50:2d1f4a,100:0c0a14&height=140&section=header&text=Sarthak%20Agarwal&fontSize=36&fontColor=c8b8ff&fontAlignY=60&animation=fadeIn&desc=B.Tech%20IT%20%C2%B7%20VIT%20Vellore%20%2724%E2%80%9328&descSize=13&descAlignY=80&descColor=6a4aaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0a14,50:2d1f4a,100:0c0a14&height=120&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1228&height=60&text=SARTHAK%20AGARWAL&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn" width="60%"/>
+
+<br/><br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Flutter+%7C+React+%7C+Node.js+%7C+GCP;always+learning+%C2%B7+always+exploring;Noida+%E2%86%92+Vellore+%E2%86%92+internet)
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=560&lines=flutter+%C2%B7+react+%C2%B7+node.js+%C2%B7+gcp;always+learning+%C2%B7+always+exploring;noida+%E2%86%92+vellore+%E2%86%92+internet)
-
-<br/>
-
-![](https://img.shields.io/badge/VIT%20Vellore-2d1f4a?style=flat-square&labelColor=0c0a14&color=2d1f4a&logoColor=c8b8ff)&nbsp;
-![](https://img.shields.io/badge/Noida%20IN-2d1f4a?style=flat-square&labelColor=0c0a14&color=2d1f4a)&nbsp;
-![](https://img.shields.io/badge/open%20to%20internships-2d1f4a?style=flat-square&labelColor=0c0a14&color=2d1f4a)&nbsp;
-![](https://img.shields.io/badge/open%20to%20collabs-2d1f4a?style=flat-square&labelColor=0c0a14&color=2d1f4a)
+![](https://img.shields.io/badge/VIT%20Vellore-0c0a14?style=flat-square&labelColor=1a1228&color=2d1f4a)&nbsp;
+![](https://img.shields.io/badge/Noida%2C%20India-0c0a14?style=flat-square&labelColor=1a1228&color=2d1f4a)&nbsp;
+![](https://img.shields.io/badge/open%20to%20internships-0c0a14?style=flat-square&labelColor=1a1228&color=2d1f4a)&nbsp;
+![](https://img.shields.io/badge/open%20to%20collabs-0c0a14?style=flat-square&labelColor=1a1228&color=2d1f4a)
 
 </div>
 
@@ -25,9 +27,11 @@ const sarthak = {
   based   : "Noida, India",
   doing   : "learning new tech, building things, exploring rabbit holes",
   stack   : ["Flutter", "React", "Node.js", "Firebase", "MongoDB", "GCP"],
-  contact : "sarthaka700@gmail.com",
 };
 ```
+
+second year cs student who spends most of his time exploring new tech and building things.
+into mobile dev, full-stack, cloud, and ui — pretty much anything that seems interesting enough to dive into.
 
 ---
 
@@ -37,31 +41,31 @@ const sarthak = {
 <tr>
 <td width="50%">
 
-**[Hydrae](https://play.google.com/store/apps/details?id=com.sarthak.hydrae)**
+**[Hydrae — Live on Play Store](https://play.google.com/store/apps/details?id=com.sarthak.hydrae)**
 `Flutter · Firebase · Dart`
 
-health intake & water tracker.
-live on play store with real users.
+health intake & water tracker
+with smart reminders and analytics.
 
 </td>
 <td width="50%">
 
-**[WidgetXtreme](https://play.google.com/store/apps/details?id=com.saksham.widgetxtreme)**
+**[WidgetXtreme — Live on Play Store](https://play.google.com/store/apps/details?id=com.saksham.widgetxtreme)**
 `Flutter · Android SDK · Dart`
 
 home screen widgets + mini games.
-solo built. live on play store.
+solo built end to end.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[AI Inventory Orchestrator](https://github.com/A9Sarthak/Ai-Inventory-Orchaestrator)**
+**[AI Inventory Orchestrator — Patented](https://github.com/A9Sarthak/Ai-Inventory-Orchaestrator)**
 `React TSX · Node.js · Express · MongoDB`
 
 ai-driven inventory system.
-patent filed — app no. 202641015520.
+govt patent app no. 202641015520.
 
 </td>
 <td width="50%">
