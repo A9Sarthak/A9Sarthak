@@ -93,11 +93,11 @@ optimization and pdf trip exports.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A9Sarthak&show_icons=true&hide_border=true&bg_color=0c0a14&title_color=9d6fff&icon_color=00ff88&text_color=6a4aaa&hide=issues)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A9Sarthak&theme=2077)
 
 ![Streak](https://streak-stats.demolab.com?user=A9Sarthak&hide_border=true&background=0c0a14&ring=9d6fff&fire=00ff88&currStreakLabel=9d6fff&sideLabels=6a4aaa&dates=3d2d5a&currStreakNum=c8b8ff&sideNums=c8b8ff)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A9Sarthak&layout=compact&hide_border=true&bg_color=0c0a14&title_color=9d6fff&text_color=6a4aaa&langs_count=6)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A9Sarthak&layout=donut&hide_border=true&bg_color=0c0a14&title_color=9d6fff&text_color=c8b8ff&langs_count=6)
 
 </div>
 
