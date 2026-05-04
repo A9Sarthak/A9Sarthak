@@ -2,20 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0a14,50:2d1f4a,100:0c0a14&height=120&section=header" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1228&height=60&text=SARTHAK%20AGARWAL&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn" width="60%"/>
-
-<br/><br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Flutter+%7C+React+%7C+Node.js+%7C+GCP;always+learning+%C2%B7+always+exploring;Noida+%E2%86%92+Vellore+%E2%86%92+internet)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0a14,50:2d1f4a,100:0c0a14&height=160&section=header&text=SARTHAK%20AGARWAL&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-![](https://img.shields.io/badge/VIT%20Vellore-0c0a14?style=flat-square&labelColor=1a1228&color=2d1f4a)&nbsp;
-![](https://img.shields.io/badge/Noida%2C%20India-0c0a14?style=flat-square&labelColor=1a1228&color=2d1f4a)&nbsp;
-![](https://img.shields.io/badge/open%20to%20internships-0c0a14?style=flat-square&labelColor=1a1228&color=2d1f4a)&nbsp;
-![](https://img.shields.io/badge/open%20to%20collabs-0c0a14?style=flat-square&labelColor=1a1228&color=2d1f4a)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Flutter+%7C+React+%7C+Node.js+%7C+GCP;always+learning+%C2%B7+always+exploring;Noida+%E2%86%92+Vellore+%E2%86%92+internet)
 
 </div>
 
